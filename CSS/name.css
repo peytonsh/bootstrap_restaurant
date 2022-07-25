@@ -1,0 +1,100 @@
+
+.bg-green{
+    background-color: rgb(101, 138, 101);
+}
+.bg-black{
+    background-color: #000000;
+}
+
+.bg-navy{
+    background-color: #14213D;
+}
+
+.bg-accent{
+    background-color: #FCA311;
+}
+
+.bg-lightgray{
+    background-color: #E5E5E5 ;
+}
+
+.bg-white{
+    background-color: #FFFFFF;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+/* font colors */
+
+.text-black{
+    color: black;
+}
+
+.text-navy{
+    color: #14213D;
+}
+
+.text-red{
+    color: red;
+}
+
+.text-accent a{
+    color: #FCA311 ;
+}
+
+.text-accent a:hover{
+    color: #E5E5E5 ;
+}
+
+.text-lightGray{
+    color: #E5E5E5;
+}
+
+.text-white{
+    color: white;
+}
+
+/* Page Sections */
+
+.ps-light{
+    background-color: white;
+    /* height: 550px; */
+    width: 100%;
+}
+
+.ps-gray{
+    background-color: #E5E5E5;
+    /* height: 550px; */
+    width: 100%;
+}
+
+.design{
+
+    width:100%;
+    height: 550px;
+    background-color: pink;
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    width: 33%;
+    padding: px;
+  }
+  img {
+    width: 100%;}
+
+.middle-section{
+    height: 60vh;
+    width: 100%;
+    overflow: hidden;
+}
+.font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text{
+    text-align: right;
+}
